@@ -1,5 +1,4 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)  
+<img src="New Profile Pic.jpg">
 
 <h1>My name is Abel Juarez, this is a test<h1>
   
