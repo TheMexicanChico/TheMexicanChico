@@ -1,5 +1,5 @@
 <img src="C:\users\home\pictures\New Profile Pic.jpg"/>
-<p1>Contact Information: <p1> <a href = "jabel@udel.edu">
+<p1>Contact Information: <p1> <a href = "jabel@udel.edu">jabel@udel.edu</a>
 
 <h1>My name is Abel Juarez, this is a test &#127830;<h1>
 <span style="white-space: pre-line">
