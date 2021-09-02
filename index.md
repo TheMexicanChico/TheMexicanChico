@@ -8,7 +8,7 @@
 <p1>Interests: Shoes, Anime, and Just Vibin<p1>
 <p1>Fun Facts: I'm a clown 	&#129313;<p1>
 
-_[YouTube](https://www.youtube.com/watch?v=kxWGV5RKNkM)_
+[YouTube](https://www.youtube.com/watch?v=kxWGV5RKNkM)
 <span style="white-space: pre-line">
   
   
