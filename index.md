@@ -1,5 +1,4 @@
 <img src="C:\users\home\pictures\New Profile Pic.jpg"/>
-<a href="mailto:EmailAddress@. XYZ.com">
 <p1>Contact Information: <p1> <a href = "jabel@udel.edu">
 
 <h1>My name is Abel Juarez, this is a test &#127830;<h1>
