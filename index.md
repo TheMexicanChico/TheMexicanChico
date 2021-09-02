@@ -8,8 +8,7 @@
 <p1>Interests: Shoes, Anime, and Just Vibin<p1>
 <p1>Fun Facts: I'm a clown 	&#129313;<p1>
 
-<p1>Not for sensitive people<p1>
-<a href="https://www.youtube.com/watch?v=kxWGV5RKNkM">YouTube</a>
+<p1>Not for sensitive people: <p1> <a href="https://www.youtube.com/watch?v=kxWGV5RKNkM">YouTube</a>
 <span style="white-space: pre-line">
   
   
