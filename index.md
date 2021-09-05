@@ -20,7 +20,7 @@ p    {color: white;}
 <p1>Viewer Discretion is Advised: </p1> <a href="https://www.youtube.com/watch?v=QiCpsIS90F0">YouTube</a>
 <span style="white-space: pre-line">
   
-<h1>Project Ideas: </h1>
+<h2>Project Ideas: </h2>
 
 <table>
   <tr>
