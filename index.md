@@ -16,17 +16,46 @@ p    {color: white;}
 <p1>Fun Facts: I'm a clown 	&#129313;<p1>
   
 <!--- Original link: https://www.youtube.com/watch?v=kxWGV5RKNkM --->
-<p1>View Discretion is Advised: <p1> <a href="https://www.youtube.com/watch?v=QiCpsIS90F0">YouTube</a>
+<p1>Viewer Discretion is Advised: <p1> <a href="https://www.youtube.com/watch?v=QiCpsIS90F0">YouTube</a>
 <span style="white-space: pre-line">
   
 Project Ideas:
 
+<table>
+  <tr>
+    <th>Concept Projects</th>
+    <th>Projects Given The Go</th>
+    <th>Completed Projects</th>
+  </tr>
+  <tr>
+    <td>Calculator</td>
+    <td>&#10003;</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chess Game</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Snake Game</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Drawing Game</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+  
+<!--- 
 Concept Projects | Projects Given The Go | Completed Projects 
 ------------ | ------------- | -------------
 Calculator | &#10003; |
 Chess Game |  |
 Snake Game |  |
-Drawing Game |  |
+Drawing Game |  | --->
 
   
   
