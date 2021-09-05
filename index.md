@@ -1,7 +1,7 @@
 <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+<!--- body {background-color: powderblue;} --->
+h1   {color: white;}
+p    {color: white;}
 </style>
 
 <img src="C:\users\home\pictures\New Profile Pic.jpg"/>
