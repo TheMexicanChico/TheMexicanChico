@@ -69,4 +69,4 @@ img {
   <li>Removed: I removed a video and added a new link for another video</li>
   <li>Changed: I changed the font size, style of fonts, and colors</li>
 </ul>
-
+ 
