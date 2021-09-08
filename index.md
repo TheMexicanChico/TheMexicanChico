@@ -24,7 +24,7 @@ img src {
   <li>Make my website pop a little more</li>
 </ul>
   
-<h3>About Me:</h3> 
+<h3>About Me:</h3> <span style="white-space: normal">
 <span style="white-space: pre-line">
 <p1>Major: Computer Science BS<p1>
 <p1>Pronouns: He/Him<p1>
@@ -32,7 +32,8 @@ img src {
 <p1>Fun Facts: I'm a goofy person	&#129313;</p1>
 <p1>Viewer Discretion is Advised: </p1> <a href="https://www.youtube.com/watch?v=QiCpsIS90F0">YouTube</a>
 <span style="white-space: pre-line">
-  
+
+<span style="white-space: normal">
 <h3>Project Ideas: </h3>
 <table>
   <tr>
