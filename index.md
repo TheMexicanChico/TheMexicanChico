@@ -5,9 +5,12 @@ h2   {color: white;}
 h3   {color: white;}
 p    {color: white;}
 <!--- Rounded Image --->
+img {
+  border-radius: 50%;
+}
 </style>
 
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/196682676_1792660774229409_8973330394025719252_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=h8Vrrb9f0HwAX9FAyel&_nc_ht=scontent-lga3-1.xx&oh=baa1401d6bcb3b476565778555531e8b&oe=615DC9D8" width= "400" height= "425">
+<center> <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/196682676_1792660774229409_8973330394025719252_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=h8Vrrb9f0HwAX9FAyel&_nc_ht=scontent-lga3-1.xx&oh=baa1401d6bcb3b476565778555531e8b&oe=615DC9D8" width= "500" height= "500"> </center>
 
 
 <p1>My name is Abel Juarez, this is a test &#127830;<p1>
