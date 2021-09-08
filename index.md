@@ -5,7 +5,7 @@ h2   {color: white;}
 h3   {color: white;}
 p    {color: white;}
 <!--- Rounded Image --->
-img src {
+img {
   border-radius: 25%;
 }
 </style>
