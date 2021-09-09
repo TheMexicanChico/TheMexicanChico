@@ -40,15 +40,18 @@ p    {color: white;}
   <tr>
     <th>Concept Projects</th>
     <th>Projects Given The Go</th>
+    <th>In Progress</th>
     <th>Completed Projects</th>
   </tr>
   <tr>
     <td>Calculator</td>
     <td>&#10003;</td>
+    <th>&#8987;</th>
     <td></td>
   </tr>
   <tr>
     <td>Chess Game</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -56,9 +59,11 @@ p    {color: white;}
     <td>Snake Game</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Drawing Game</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
