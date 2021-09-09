@@ -66,9 +66,9 @@ p    {color: white;}
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I added a table (project ideas), emojis, profolio changes, and to do lists</li>
-  <li>Removed: I removed a video and added a new link for another video</li>
-  <li>Changed: I changed the font size, style of fonts, and colors</li>
+  <li>Added: I added a table (project ideas), emojis, profolio changes, About Me and To-Do lists</li>
+  <li>Removed: </li>
+  <li>Changed: I changed the font size, style of fonts, layout of page, and colors</li>
 </ul>
 
 <span style="white-space: normal">
