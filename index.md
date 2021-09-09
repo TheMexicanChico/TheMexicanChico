@@ -19,8 +19,9 @@ p    {color: white;}
 <h3>To-Do List: </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I would like to add a picture of myself on my website (I'm using this webisite to help me with my endeavors <a href = "https://www.w3schools.com/html/html_images.asp">W3 Schools</a>)</li>
-  <li>Move the picture to the center of the page</li>
+  <li>I would like to add a picture of myself on my website (I'm using this <a href = "https://www.w3schools.com/html/html_images.asp">webisite</a> to help me with my endeavors)</li>
+  <li>Move the picture to the center of the page (I'm using this <a href = "https://www.w3schools.com/howto/howto_css_image_center.asp">website</a> to help me with the centering)</li>
+  <li>I'm attempting to make a calculator using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY">tutorial</a></li>
   <li>Make my website pop a little more</li>
 </ul>
   
