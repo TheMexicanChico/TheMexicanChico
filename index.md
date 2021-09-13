@@ -19,10 +19,9 @@ p    {color: white;}
 <h3>To-Do List: </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I would like to add a picture of myself on my website (I'm using this <a href = "https://www.w3schools.com/html/html_images.asp">webisite</a> to help me with my endeavors)</li>
-  <li>Move the picture to the center of the page (I'm using this <a href = "https://www.w3schools.com/howto/howto_css_image_center.asp">website</a> to help me with the centering)</li>
-  <li>I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY">tutorial</a></li>
-  <li>Make my website pop a little more</li>
+  <li>I'm attempting to complete my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY">tutorial</a></li>
+  <li>Making my photo more rounded</li>
+  <li></li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
@@ -47,7 +46,7 @@ p    {color: white;}
     <td>Calculator</td>
     <td>&#10003;</td>
     <th>&#8987;</th>
-    <td></td>
+    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></td>
   </tr>
   <tr>
     <td>Chess Game</td>
@@ -57,8 +56,8 @@ p    {color: white;}
   </tr>
   <tr>
     <td>Snake Game</td>
-    <td></td>
-    <td></td>
+    <td>&#10003;</td>
+    <td>&#8987;</td>
     <td></td>
   </tr>
   <tr>
@@ -71,9 +70,9 @@ p    {color: white;}
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I added a table (project ideas), emojis, profolio changes, About Me and To-Do lists</li>
+  <li>Added: I added a my new repository about my calculator and thinking of my next mini project idea</li>
   <li>Removed: </li>
-  <li>Changed: I changed the font size, style of fonts, layout of page, and colors</li>
+  <li>Changed: I changed my image</li>
 </ul>
 
 <span style="white-space: normal">
