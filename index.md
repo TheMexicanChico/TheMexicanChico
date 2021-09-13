@@ -72,7 +72,7 @@ p    {color: white;}
 <ul>
   <li>Added: I added a my new repository about my calculator and thinking of my next mini project idea</li>
   <li>Removed: </li>
-  <li>Changed: I changed my radius</li>
+  <li>Changed: I changed my radius of my image</li>
 </ul>
 
 <span style="white-space: normal">
