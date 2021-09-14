@@ -46,7 +46,7 @@ p    {color: white;}
     <td>Calculator</td>
     <td>&#10003;</td>
     <th>&#8987;</th>
-    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a> &nbsp <a href = "https://github.com/TheMexicanChico/Calculator">Repository</a></td>
+    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a> &nbsp; <a href = "https://github.com/TheMexicanChico/Calculator">Repository</a></td>
   </tr>
   <tr>
     <td>Chess Game</td>
