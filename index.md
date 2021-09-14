@@ -21,7 +21,7 @@ p    {color: white;}
 <ul>
   <li>I'm attempting to complete my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY">tutorial</a></li>
   <li>Making my photo more rounded</li>
-  <li></li>
+  <li>Make my website pop a little more</li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
@@ -38,7 +38,7 @@ p    {color: white;}
 <table>
   <tr>
     <th>Concept Projects</th>
-    <th>Projects Given The Go</th>
+    <th>Accepted Projects</th>
     <th>In Progress</th>
     <th>Completed Projects</th>
   </tr>
@@ -46,7 +46,7 @@ p    {color: white;}
     <td>Calculator</td>
     <td>&#10003;</td>
     <th>&#8987;</th>
-    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></td>
+    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a> &nbsp I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">Repository</a></td>
   </tr>
   <tr>
     <td>Chess Game</td>
@@ -66,11 +66,18 @@ p    {color: white;}
     <td></td>
     <td></td>
   </tr>
-</table>  
+</table>
+  
+<h3>Completed Items From My TO-Do List: <h3>
+  <ul>
+  <li>I would like to add picture of myself on my website(I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</li>
+  <li>Move the picture to the center of the page (I'm using this <a href = "https://www.computerhope.com/issues/ch001613.htm">website</a> to help me with the centering)</li>
+  <li>I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY&t=180s">tutorial</a></li>
+</ul>
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I added a my new repository about my calculator and thinking of my next mini project idea</li>
+  <li>Added: I added a my new repository for my calculator, be given the go to do the next project, made a completed item list for my TO-DO List and....</li>
   <li>Removed: </li>
   <li>Changed: I changed my radius of my image</li>
 </ul>
