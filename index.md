@@ -46,7 +46,7 @@ p    {color: white;}
     <td>Calculator</td>
     <td>&#10003;</td>
     <th>&#8987;</th>
-    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a> &nbsp I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">Repository</a></td>
+    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a> &nbsp <a href = "https://github.com/TheMexicanChico/Calculator">Repository</a></td>
   </tr>
   <tr>
     <td>Chess Game</td>
@@ -68,7 +68,7 @@ p    {color: white;}
   </tr>
 </table>
   
-<h3>Completed Items From My TO-Do List: <h3>
+<h3>Completed Items From My TO-Do List:</h3>
   <ul>
   <li>I would like to add picture of myself on my website(I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</li>
   <li>Move the picture to the center of the page (I'm using this <a href = "https://www.computerhope.com/issues/ch001613.htm">website</a> to help me with the centering)</li>
