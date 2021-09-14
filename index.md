@@ -39,17 +39,20 @@ p    {color: white;}
   <tr>
     <th>Concept Projects</th>
     <th>Accepted Projects</th>
-    <th>In Progress</th>
-    <th>Completed Projects</th>
+    <th>Progress</th>
+    <th>Repository</th>
+    <th>Website</th>
   </tr>
   <tr>
     <td>Calculator</td>
     <td>&#10003;</td>
-    <th>&#8987;</th>
-    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a> &nbsp; <a href = "https://github.com/TheMexicanChico/Calculator">Repository</a></td>
+    <td>&#9203;</td>
+    <td><a href = "https://github.com/TheMexicanChico/Calculator">Cal-Cu-La-Tor Repository</a></td>
+    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></td>
   </tr>
   <tr>
     <td>Chess Game</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -57,11 +60,13 @@ p    {color: white;}
   <tr>
     <td>Snake Game</td>
     <td>&#10003;</td>
-    <td>&#8987;</td>
+    <td>&#9203;</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Drawing Game</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,7 +84,7 @@ p    {color: white;}
 <ul>
   <li>Added: I added a my new repository for my calculator, be given the go to do the next project, made a completed item list for my TO-DO List and....</li>
   <li>Removed: </li>
-  <li>Changed: I changed my radius of my image</li>
+  <li>Changed: I changed the radius of my image, added and changed the name of some the coloumns and rows in my project ideas</li>
 </ul>
 
 <span style="white-space: normal">
