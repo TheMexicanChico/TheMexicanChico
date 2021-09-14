@@ -47,8 +47,8 @@ p    {color: white;}
     <td>Calculator</td>
     <td><center>&#10003;</center></td>
     <td><center>&#9203;</center></td>
-    <td><a href = "https://github.com/TheMexicanChico/Calculator">Cal-Cu-La-Tor Repository</a></td>
-    <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></td>
+    <td><center><a href = "https://github.com/TheMexicanChico/Calculator">Cal-Cu-La-Tor Repository</a></center></td>
+    <td><center><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></center></td>
   </tr>
   <tr>
     <td>Chess Game</td>
@@ -59,8 +59,8 @@ p    {color: white;}
   </tr>
   <tr>
     <td>Snake Game</td>
-    <td>&#10003;</td>
-    <td>&#9203;</td>
+    <td><center>&#10003;</center></td>
+    <td><center>&#9203;</center></td>
     <td></td>
     <td></td>
   </tr>
