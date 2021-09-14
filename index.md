@@ -40,13 +40,13 @@ p    {color: white;}
     <th>Concept Projects</th>
     <th>Accepted Projects</th>
     <th>Progress</th>
-    <th>Repository</th>
-    <th>Website</th>
+    <th><center>Repository</center></th>
+    <th><center>Website</center></th>
   </tr>
   <tr>
     <td>Calculator</td>
-    <td>&#10003;</td>
-    <td>&#9203;</td>
+    <td><center>&#10003;</center></td>
+    <td><center>&#9203;</center></td>
     <td><a href = "https://github.com/TheMexicanChico/Calculator">Cal-Cu-La-Tor Repository</a></td>
     <td><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></td>
   </tr>
