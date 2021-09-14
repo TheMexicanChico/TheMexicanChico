@@ -19,8 +19,8 @@ p    {color: white;}
 <h3>To-Do List: </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style</a></li>
-  <li>Making my photo on this portfolio rounded</li>
+  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style</a>)</li>
+  <li>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</li>
   <li>Make my website pop a little more</li>
 </ul>
   
