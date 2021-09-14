@@ -46,7 +46,7 @@ p    {color: white;}
   <tr>
     <td>Calculator</td>
     <td><center>&#10003;</center></td>
-    <td><center>&#9203;</center></td>
+    <td><center>&#8987;</center></td>
     <td><center><a href = "https://github.com/TheMexicanChico/Calculator">Cal-Cu-La-Tor Repository</a></center></td>
     <td><center><a href = "https://themexicanchico.github.io/Calculator/">Cal-Cu-La-Tor</a></center></td>
   </tr>
