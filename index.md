@@ -51,7 +51,7 @@
     <td>Snake Game</td>
     <td><center>&#10003;</center></td>
     <td><center>&#9203;</center></td>
-    <td><center><a href = "https://github.com/TheMexicanChico/SnakeGame">I'm a Snake Repository</a></td>
+    <td><center><a href = "https://github.com/TheMexicanChico/SnakeGame">I'm a Snake Repository</a></center></td>
     <td></td>
   </tr>
   <tr>
