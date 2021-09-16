@@ -1,9 +1,3 @@
-<style>
-  img {
-  border-radius: 50%;
-  }
-</style>
-
 <center> <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/196682676_1792660774229409_8973330394025719252_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=h8Vrrb9f0HwAX9FAyel&_nc_ht=scontent-lga3-1.xx&oh=baa1401d6bcb3b476565778555531e8b&oe=615DC9D8" title="Abel Juarez" width= "425" height= "425"> </center>
 
 <span style="white-space: normal">
@@ -13,7 +7,8 @@
 <h3>To-Do List: </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style</a>)</li>
+  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style and more info in my change log</a>)</li>
+  <li>Start working on my next concept project (Snake Game)</li>
   <li>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</li>
   <li>Make my website pop a little more</li>
 </ul>
