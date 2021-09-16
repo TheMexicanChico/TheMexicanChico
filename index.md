@@ -9,7 +9,7 @@
 <ul>
   <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style and more info in my change log</a>)</li>
   <li>Start working on my next concept project (<a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a>)</li>
-  <li>Connect my VSCode to my github account (so that I can get credit for my Git Mastery)</li>
+  <li>Connect my VSCode to my github account so that I can get credit for my Git Mastery (After a couple hours of trying to connect my VSCode to github, I've decided to go to office hours on Friday (9/17) to get actually get it working)</li>
   <li>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</li>
   <li>Make my website pop a little more</li>
 </ul>
