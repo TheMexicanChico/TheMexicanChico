@@ -80,7 +80,7 @@
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I added a my new repository for my calculator (Instead of keeping the background a solid color, I used an image that I found online, changed the look of the calculator and gave credit to the person who created the tutorial *bottom right corner of Cal-Cu-La-Tor*), I've been given the go to do the next project (the next project is the going to be the Snake Game and I already made a repository for it), added a few more concept projects (solitaire and drawing game), and I made a completed items list for my TO-DO List</li>
+  <li>Added: I added a my new repository for my calculator (Instead of keeping the background a solid color, I used an image that I found online, changed the look of the calculator and gave credit to the person who created the tutorial *bottom right corner of Cal-Cu-La-Tor*), I've been given the go to do the next project (the next project is the going to be the Snake Game and I already made a repository for it), added a few more concept projects (solitaire and drawing game), and I'm starting to make weekly To-Do Lists (So that my progress can be shown)</li>
   <li>Removed: </li>
   <li>Changed: I changed the radius of my image, added and changed the name of some the coloumns and rows in my project ideas</li>
 </ul>
