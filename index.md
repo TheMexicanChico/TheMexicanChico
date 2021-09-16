@@ -3,15 +3,23 @@
 <span style="white-space: normal">
 <p1>My name is Abel Juarez, this is a test &#127830;<p1>
 <p1>Contact Information: </p1> <a href = "jabel@udel.edu">jabel@udel.edu</a>
+  
+<h3>To-Do List (Week 2): </h3>
+<!--- Bullet points --->
+<ul>
+  <li><strike>I would like to add picture of myself on my website (I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</strike></li>
+  <li><strike>Move the picture to the center of the page (I'm using this <a href = "https://www.computerhope.com/issues/ch001613.htm">website</a> to help me with the centering)</strike></li>
+  <li><strike>I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY&t=180s">tutorial</a>)</strike></li>
+  <li>Make my website pop a little more (This will never be completed because you can always make your protfolio better)</li>
+</ul>
 
-<h3>To-Do List: </h3>
+<h3>To-Do List (Week 3): </h3>
 <!--- Bullet points --->
 <ul>
   <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style and more info in my change log</a>)</li>
   <li>Start working on my next concept project (<a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a>)</li>
   <li>Connect my VSCode to my github account so that I can get credit for my Git Mastery (After a couple hours of trying to connect my VSCode to github, I've decided to go to office hours on Friday (9/17) to get actually get it working)</li>
   <li>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</li>
-  <li>Make my website pop a little more</li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
@@ -69,13 +77,6 @@
     <td></td>
   </tr>
 </table>
-  
-<h3>Completed Items From My To-Do List:</h3>
-  <ul>
-  <li>I would like to add picture of myself on my website (I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</li>
-  <li>Move the picture to the center of the page (I'm using this <a href = "https://www.computerhope.com/issues/ch001613.htm">website</a> to help me with the centering)</li>
-  <li>I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY&t=180s">tutorial</a>)</li>
-</ul>
   
 <h3>Portfolio Change Log: </h3>
 <ul>
