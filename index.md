@@ -10,7 +10,7 @@
   <li><strike>I would like to add picture of myself on my website (I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</strike></li>
   <li><strike>Move the picture to the center of the page (I'm using this <a href = "https://www.computerhope.com/issues/ch001613.htm">website</a> to help me with the centering)</strike></li>
   <li><strike>I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY&t=180s">tutorial</a>)</strike></li>
-  <li>Make my website pop a little more (This will never be completed because you can always make your protfolio better)</li>
+  <li>Make my website pop a little more (This will never be completed because you can always make your portfolio better)</li>
 </ul>
 
 <h3>To-Do List (Week 3): </h3>
