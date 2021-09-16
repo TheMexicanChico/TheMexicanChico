@@ -8,7 +8,7 @@
 <!--- Bullet points --->
 <ul>
   <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style and more info in my change log</a>)</li>
-  <li>Start working on my next concept project (Snake Game)</li>
+  <li>Start working on my next concept project (<a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a>)</li>
   <li>Connect my VSCode to my github account (so that I can get credit for my Git Mastery)</li>
   <li>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</li>
   <li>Make my website pop a little more</li>
@@ -51,7 +51,7 @@
     <td>Snake Game</td>
     <td><center>&#10003;</center></td>
     <td><center>&#9203;</center></td>
-    <td></td>
+    <td><center><a href = "https://github.com/TheMexicanChico/SnakeGame">I'm a Snake Repository</a></td>
     <td></td>
   </tr>
   <tr>
