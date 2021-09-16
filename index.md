@@ -72,7 +72,7 @@
   
 <h3>Completed Items From My To-Do List:</h3>
   <ul>
-  <li>I would like to add picture of myself on my website(I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</li>
+  <li>I would like to add picture of myself on my website (I used this <a href = "https://www.w3schools.com/html/html_images.asp">website</a> to help me with my endeavors)</li>
   <li>Move the picture to the center of the page (I'm using this <a href = "https://www.computerhope.com/issues/ch001613.htm">website</a> to help me with the centering)</li>
   <li>I'm attempting to make a <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this <a href = "https://www.youtube.com/watch?v=BuZtAqk5LIY&t=180s">tutorial</a>)</li>
 </ul>
