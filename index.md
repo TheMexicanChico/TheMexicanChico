@@ -3,7 +3,7 @@
 <span style="white-space: normal">
 <p1>My name is Abel Juarez, this is a test &#127830;<p1>
 <p1>Contact Information: </p1> <a href = "jabel@udel.edu">jabel@udel.edu</a>
-  
+ 
 <h3>To-Do List (Week 2): </h3>
 <!--- Bullet points --->
 <ul>
