@@ -26,7 +26,7 @@
 <!--- Bullet points --->
 <ul>
   <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this <a href = "https://www.youtube.com/watch?v=7Azlj0f9vas">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
-  <li>Improve my JavaScript skills</li>
+  <li>Improve my JavaScript and React skills</li>
   <li></li>
 </ul>
   
