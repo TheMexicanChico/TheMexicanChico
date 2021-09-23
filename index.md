@@ -16,10 +16,18 @@
 <h3>To-Do List (Week 3): </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style and more info in my change log</a>)</li>
-  <li>Start working on my next concept project (<a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a>)</li>
-  <li>Connect my VSCode to my github account so that I can get credit for my Git Mastery (After a couple hours of trying to connect my VSCode to github, I've decided to go to office hours on Friday (9/17) to get actually get it working)</li>
-  <li>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</li>
+  <li><strike>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/Calculator">calculator</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style and more info in my change log</a>)</strike></li>
+  <li><strike>Start working on my next concept project (<a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a>)</strike></li>
+  <li><strike>Connect my VSCode to my github account so that I can get credit for my Git Mastery (After a couple hours of trying to connect my VSCode to github, I've decided to go to office hours on Friday (9/17) to get actually get it working)</strike></li>
+  <li><strike>Making my photo on this portfolio rounded (I'm using this website to <a href = "https://www.w3schools.com/howto/howto_css_rounded_images.asp">guide</a> me)</strike></li>
+</ul>
+
+<h3>To-Do List (Week 4): </h3>
+<!--- Bullet points --->
+<ul>
+  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style</a> and <b>*more info in my change log*</b>)</li>
+  <li></li>
+  <li></li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
@@ -80,9 +88,9 @@
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I added a my new repository for my calculator (Instead of keeping the background a solid color, I used an image that I found online, changed the look of the calculator and gave credit to the person who created the tutorial *bottom right corner of Cal-Cu-La-Tor*) *Please take a look at my website and repository in my project ideas*, I've been given the go to do the next project (the next project is the going to be the Snake Game and I already made a repository for it), added a few more concept projects (solitaire and drawing game), and I'm starting to make weekly To-Do Lists (So that my progress can be shown)</li>
+  <li>Added: </li>
   <li>Removed: </li>
-  <li>Changed: I changed the radius of my image, added and changed the name of some the coloumns and rows in my project ideas</li>
+  <li>Changed: </li>
 </ul>
 
 <span style="white-space: normal">
