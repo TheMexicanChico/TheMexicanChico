@@ -25,8 +25,8 @@
 <h3>To-Do List (Week 4): </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this website that invole <a href = "https://www.w3schools.com/css/default.asp">style</a> and <b>*more info in my change log*</b>)</li>
-  <li></li>
+  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this <a href = "https://www.youtube.com/watch?v=7Azlj0f9vas">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
+  <li>Improve my JavaScript skills</li>
   <li></li>
 </ul>
   
@@ -68,14 +68,7 @@
     <td><center>&#10003;</center></td>
     <td><center>&#9203;</center></td>
     <td><center><a href = "https://github.com/TheMexicanChico/SnakeGame">I'm a Snake Repository</a></center></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Drawing Game</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><center><a href = "https://themexicanchico.github.io/SnakeGame/">I'm a Snake</a></center></td>
   </tr>
   <tr>
     <td>Solitaire</td>
@@ -88,9 +81,9 @@
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: </li>
-  <li>Removed: </li>
-  <li>Changed: </li>
+  <li>Added: I recently completed my Snake Game, after working on my Snake Game for more than 10 hours (during these 10 hours I had to redo the Snake Game multiple times until I found a tutorial that helps me: learn and improve my JavaScript skills). After completing my Snake Game, I added the repository for my Snake Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online, changed the look and color of the snake, and gave credit to the person who created the most <b>useful</b> tutorial (*bottom right corner of I’m a Snake *). Please take a look at my website and repository in my project ideas, I've been really burned out after my Snake Game sessions; so, I’m going to take a break (If you have any recommendations on concept projects, please email me *Contact Information is under my photo at the top of this website*).</li>
+  <li>Removed: I removed the "Drawing Game" from my project ideas</li>
+  <li>Changed: I’ve completed all my objectives/goals that I have sent for myself last week, so I striked through all the items that are under my To-Do List (week 3)</li>
 </ul>
 
 <span style="white-space: normal">
