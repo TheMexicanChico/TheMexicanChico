@@ -3,7 +3,17 @@
 <span style="white-space: normal">
 <p1>My name is Abel Juarez, this is a test &#127830;<p1>
 <p1>Contact Information: </p1> <a href = "jabel@udel.edu">jabel@udel.edu</a>
- 
+
+<h3>To-Do List (Week 5): </h3>
+<!--- Bullet points --->
+<ul>
+  <li>I'm attempting to complete and style my React and Typescript for my <a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">React Quiz</a> (I'm using this <a href = "https://www.youtube.com/watch?v=F2JCjVSZlG0&t=3767s">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
+  <li>Improve my Typescript and React skills <b>(*more info in my change log*)</b></li>
+  <li>Goals: Make a leaderboard that actually works and keep imporving my skills in multiple coding languages</li>
+</ul>
+
+<h3>To-Do List Archive:</h3>
+
 <h3>To-Do List (Week 2): </h3>
 <!--- Bullet points  --->
 <ul>
@@ -28,14 +38,6 @@
   <li><strike>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this <a href = "https://www.youtube.com/watch?v=7Azlj0f9vas">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</strike></li>
   <li><strike>Improve my JavaScript and React skills <b>(*more info in my change log*)</b></strike></li>
   <li><strike>Improve on my Git Maserty points <b>(*more info in my change log*)</b></strike></li>
-</ul>
-
-<h3>To-Do List (Week 5): </h3>
-<!--- Bullet points --->
-<ul>
-  <li>I'm attempting to complete and style my React and Typescript for my <a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">React Quiz</a> (I'm using this <a href = "https://www.youtube.com/watch?v=F2JCjVSZlG0&t=3767s">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
-  <li>Improve my Typescript and React skills <b>(*more info in my change log*)</b></li>
-  <li>Goals: Make a leaderboard that actually works and keep imporving my skills in multiple coding languages</li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
@@ -94,6 +96,15 @@
   </tr>
 </table>
   
+<h3>Portfolio Change Log (Week 5): </h3>
+<ul>
+  <li>Added: I completed my Quiz Game, after working on my React Quiz Game for a couple of days. After completing my React Quiz, I added the repository for my React Quiz to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online and imported it into my repository, changed the look and color of the quiz interface to match my background). <b>Please take a look at my repository in my project ideas</b>. In the Project Ideas, I add a React App because most of the code is done in React and Typescript. For the duration of doing this project (React Quiz), I've been using the git commands in the terminal. I also recently added back my old change logs to see how far I come.</li>
+  <li>Removed: </li>
+  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 4). I wnt to keep making chnges to all the other websites that I have created so that I can keep imporving my skills</li>
+</ul>
+
+<h3>Change Log Archive:</h3>
+
 <h3>Portfolio Change Log (Week 2): </h3>
 <ul>
   <li>Added: I added a table (project ideas), emojis, profolio changes, ABout Me and To-Do Lists</li>
@@ -113,13 +124,6 @@
   <li>Added: I recently completed my Snake Game, after working on my Snake Game for more than 10 hours (during these 10 hours I had to redo the Snake Game multiple times until I found a tutorial that helps me: learn and improve my JavaScript skills). After completing my Snake Game, I added the repository for my Snake Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online, changed the look and color of the snake, and gave credit to the person who created the most <b>useful</b> tutorial (*bottom right corner of I’m a Snake *). Please take a look at my website and repository in my project ideas, I've been really burned out after my Snake Game sessions; so, I’m going to take a break (If you have any recommendations on concept projects, please email me *Contact Information is under my photo at the top of this website*). For the duration of doing this project (Snake Game), I've been using the git commands in the terminal. While trying to improve my git mastery, I also started using git commands for my other repositories (My Portfolio and Calculator).</li>
   <li>Removed: I removed the "Drawing Game" from my project ideas</li>
   <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 3). Also, I made changes to React code that was provided by Dr.Bart and I've been following the <a href = "https://www.youtube.com/watch?v=q8eYF6cUi5c&t=2s">tutorial</a>) that was provided in milestone 3 (I don’t know how to show my mastery of React, however, I’m more than an hour into the tutorial that was provided by Dr.Bart).</li>
-</ul>
-
-<h3>Portfolio Change Log (Week 5): </h3>
-<ul>
-  <li>Added: I completed my Quiz Game, after working on my React Quiz Game for a couple of days. After completing my React Quiz, I added the repository for my React Quiz to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online and imported it into my repository, changed the look and color of the quiz interface to match my background). <b>Please take a look at my repository in my project ideas</b>. In the Project Ideas, I add a React App because most of the code is done in React and Typescript. For the duration of doing this project (React Quiz), I've been using the git commands in the terminal. I also recently added back my old change logs to see how far I come.</li>
-  <li>Removed: </li>
-  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 4). I wnt to keep making chnges to all the other websites that I have created so that I can keep imporving my skills</li>
 </ul>
 
 <span style="white-space: normal">
