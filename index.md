@@ -35,7 +35,7 @@
 <ul>
   <li>I'm attempting to complete and style my React and Typescript for my <a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">React Quiz</a> (I'm using this <a href = "https://www.youtube.com/watch?v=F2JCjVSZlG0&t=3767s">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
   <li>Improve my Typescript and React skills <b>(*more info in my change log*)</b></li>
-  <li></li>
+  <li>Goals: Make a leaderboard that actually works and keep imporving my skills in multiple coding languages</li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
