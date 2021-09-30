@@ -90,7 +90,7 @@
     <td><center>&#10003;</center></td>
     <td><center>&#8987;</center></td>
     <td><center><a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">React Quiz Repository</a></center></td>
-    <td><center>N/A</center></td>
+    <td><center><a href = "https://themexicanchico.github.io/React-Typescript-Trainer/">React Quiz</a></center></td>
   </tr>
 </table>
   
@@ -112,15 +112,14 @@
 <ul>
   <li>Added: I recently completed my Snake Game, after working on my Snake Game for more than 10 hours (during these 10 hours I had to redo the Snake Game multiple times until I found a tutorial that helps me: learn and improve my JavaScript skills). After completing my Snake Game, I added the repository for my Snake Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online, changed the look and color of the snake, and gave credit to the person who created the most <b>useful</b> tutorial (*bottom right corner of I’m a Snake *). Please take a look at my website and repository in my project ideas, I've been really burned out after my Snake Game sessions; so, I’m going to take a break (If you have any recommendations on concept projects, please email me *Contact Information is under my photo at the top of this website*). For the duration of doing this project (Snake Game), I've been using the git commands in the terminal. While trying to improve my git mastery, I also started using git commands for my other repositories (My Portfolio and Calculator).</li>
   <li>Removed: I removed the "Drawing Game" from my project ideas</li>
-  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 3). Also, I made changes to React code that was provided by Dr.Bart and I've been following the <a href = "https://www.youtube.com/watch?v=q8eYF6cUi5c&t=2s">tutorial</a>) that was provided in milestone 3 (I don’t know how to show my mastery of React, however, I’m more than an hour into the tutorial that was provided by Dr.Bart). </li>
+  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 3). Also, I made changes to React code that was provided by Dr.Bart and I've been following the <a href = "https://www.youtube.com/watch?v=q8eYF6cUi5c&t=2s">tutorial</a>) that was provided in milestone 3 (I don’t know how to show my mastery of React, however, I’m more than an hour into the tutorial that was provided by Dr.Bart).</li>
 </ul>
 
 <h3>Portfolio Change Log (Week 5): </h3>
 <ul>
-  <li>Added: I completed my Quiz Game, after working on my React Quiz Game for a couple hours. After completing my React Quiz Game, I added the repository for my React Quiz Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online and imported it into my repository, changed the look and color of the quiz interface). <b>Please take a look at my repository in my project ideas</b>. In the Project Ideas, I didn't add a website because most of the code is done in React and Typescript; I don't have any idea of what would happen if I make it into a website. For the duration of doing this project (React Quiz Game), I've been using the git commands in the terminal. I also recently added back my old change logs to see how far I come.</li>
+  <li>Added: I completed my Quiz Game, after working on my React Quiz Game for a couple hours. After completing my React Quiz Game, I added the repository for my React Quiz Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online and imported it into my repository, changed the look and color of the quiz interface to match my background). <b>Please take a look at my repository in my project ideas</b>. In the Project Ideas, I add a React App because most of the code is done in React and Typescript. For the duration of doing this project (React Quiz Game), I've been using the git commands in the terminal. I also recently added back my old change logs to see how far I come.</li>
   <li>Removed: </li>
-  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 4). 
-</li>
+  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 4).</li>
 </ul>
 
 <span style="white-space: normal">
