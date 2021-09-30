@@ -33,8 +33,8 @@
 <h3>To-Do List (Week 5): </h3>
 <!--- Bullet points --->
 <ul>
-  <li></li>
-  <li></li>
+  <li>I'm attempting to complete and style my React and Typescript for my <a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">React Quiz</a> (I'm using this <a href = "https://www.youtube.com/watch?v=F2JCjVSZlG0&t=3767s">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
+  <li>Improve my Typescript and React skills <b>(*more info in my change log*)</b></li>
   <li></li>
 </ul>
   
@@ -89,14 +89,14 @@
     <td>Quiz Game</td>
     <td><center>&#10003;</center></td>
     <td><center>&#8987;</center></td>
-    <td><center><a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">Quiz React Repository</a></center></td>
-    <td></td>
+    <td><center><a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">React Quiz Repository</a></center></td>
+    <td><center>N/A</center></td>
   </tr>
 </table>
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I recently completed my Quiz Game, after working on my Quiz Game for more than 6 hours. After completing my Quiz Game, I added the repository for my Quiz Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online anmd imported it into my repository, changed the look and color of the quiz interface. Please take a look at my repository in my project ideas. For the duration of doing this project (Quiz Game), I've been using the git commands in the terminal.</li>
+  <li>Added: I recently completed my Quiz Game, after working on my React Quiz Game for a couple hours. After completing my React Quiz Game, I added the repository for my React Quiz Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online and imported it into my repository, changed the look and color of the quiz interface). <b>Please take a look at my repository in my project ideas</b>. In the Project Ideas, I didn't add a website because most of the code is done in React and Typescript; I don't have any idea of what would happen if I make it into a website. For the duration of doing this project (React Quiz Game), I've been using the git commands in the terminal.</li>
   <li>Removed: </li>
   <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 4). 
 </li>
