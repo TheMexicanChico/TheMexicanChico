@@ -25,9 +25,17 @@
 <h3>To-Do List (Week 4): </h3>
 <!--- Bullet points --->
 <ul>
-  <li>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this <a href = "https://www.youtube.com/watch?v=7Azlj0f9vas">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</li>
-  <li>Improve my JavaScript and React skills <b>(*more info in my change log*)</b></li>
-  <li>Improve on my Git Maserty points <b>(*more info in my change log*)</b></li>
+  <li><strike>I'm attempting to complete and style my website for my <a href = "https://github.com/TheMexicanChico/SnakeGame">Snake Game</a> (I'm using this <a href = "https://www.youtube.com/watch?v=7Azlj0f9vas">tutorial</a> to help me with my endeavors <b>*more info in my change log*</b>)</strike></li>
+  <li><strike>Improve my JavaScript and React skills <b>(*more info in my change log*)</b></strike></li>
+  <li><strike>Improve on my Git Maserty points <b>(*more info in my change log*)</b></strike></li>
+</ul>
+
+<h3>To-Do List (Week 5): </h3>
+<!--- Bullet points --->
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
   
 <h3>About Me:</h3> <span style="white-space: normal">
@@ -66,7 +74,7 @@
   <tr>
     <td>Snake Game</td>
     <td><center>&#10003;</center></td>
-    <td><center>&#9203;</center></td>
+    <td><center>&#8987;</center></td>
     <td><center><a href = "https://github.com/TheMexicanChico/SnakeGame">I'm a Snake Repository</a></center></td>
     <td><center><a href = "https://themexicanchico.github.io/SnakeGame/">I'm a Snake</a></center></td>
   </tr>
@@ -77,13 +85,20 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Quiz Game</td>
+    <td><center>&#10003;</center></td>
+    <td><center>&#8987;</center></td>
+    <td><center><a href = "https://github.com/TheMexicanChico/React-Typescript-Trainer">Quiz React Repository</a></center></td>
+    <td></td>
+  </tr>
 </table>
   
 <h3>Portfolio Change Log: </h3>
 <ul>
-  <li>Added: I recently completed my Snake Game, after working on my Snake Game for more than 10 hours (during these 10 hours I had to redo the Snake Game multiple times until I found a tutorial that helps me: learn and improve my JavaScript skills). After completing my Snake Game, I added the repository for my Snake Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online, changed the look and color of the snake, and gave credit to the person who created the most <b>useful</b> tutorial (*bottom right corner of I’m a Snake *). Please take a look at my website and repository in my project ideas, I've been really burned out after my Snake Game sessions; so, I’m going to take a break (If you have any recommendations on concept projects, please email me *Contact Information is under my photo at the top of this website*). For the duration of doing this project (Snake Game), I've been using the git commands in the terminal. While trying to improve my git mastery, I also started using git commands for my other repositories (My Portfolio and Calculator).</li>
-  <li>Removed: I removed the "Drawing Game" from my project ideas</li>
-  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 3). Also, I made changes to React code that was provided by Dr.Bart and I've been following the <a href = "https://www.youtube.com/watch?v=q8eYF6cUi5c&t=2s">tutorial</a>) that was provided in milestone 3 (I don’t know how to show my mastery of React, however, I’m more than an hour into the tutorial that was provided by Dr.Bart). 
+  <li>Added: I recently completed my Quiz Game, after working on my Quiz Game for more than 6 hours. After completing my Quiz Game, I added the repository for my Quiz Game to my portfolio (Changes I made: Instead of keeping the background a solid color, I used an image that I found online anmd imported it into my repository, changed the look and color of the quiz interface. Please take a look at my repository in my project ideas. For the duration of doing this project (Quiz Game), I've been using the git commands in the terminal.</li>
+  <li>Removed: </li>
+  <li>Changed: I’ve completed all my objectives/goals that I have set for myself last week, so I struck through all the items that are under my To-Do List (week 4). 
 </li>
 </ul>
 
